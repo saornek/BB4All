@@ -1,3 +1,10 @@
+/*
+Author: saornek
+Status: Test Required
+Purpose: BB4All's smartwatch code. 
+Next Step: Integrate a code that will activate the iBeacon.
+*/
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
